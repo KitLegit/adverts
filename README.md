@@ -4,6 +4,7 @@ The main file where the data comes from is the index.json file here. The images 
 
 ## the index.json file
 Youll notice the file has this structure:
+```
 [
    {
       "id": 1,
@@ -21,9 +22,11 @@ Youll notice the file has this structure:
 
     ..... 
 ]
+```
 
 If anything changes about the structure, nothing will load on the app.
 You can add as many ADVERT objects as you want, or delete them. The Advert obj is each piece of data between {}, like this one:
+```
  {
     "id": 1,
     "image": "Checks- Small Cert.jpg",
@@ -37,6 +40,7 @@ You can add as many ADVERT objects as you want, or delete them. The Advert obj i
     "type": "HOME_PAGE_SMALL",
     "actionType": "LINK_TO_WEBVIEW"
 }
+```
 
 
 These objects are separates by comma "," and the last one in the file CANNOT have a comma (as its the last one).
@@ -46,7 +50,7 @@ So the finla index.json file will be something like this:
 
 ### the index.json important attributes
 This explains each attribut of the object ADVERT. Remeber: keep quote marks where they are at now, and dont put them where they are not. 
-
+```
 {
     "id": 14, // internal only, but each ADVERT obj must have a unique id (regardless of the order)
     "image": "Home + Result Large - BF.jpg", // reference to the added image. The must match the exact images name thats added in the images folder.
@@ -60,4 +64,4 @@ This explains each attribut of the object ADVERT. Remeber: keep quote marks wher
     "type": "RESULTS_PAGE_LARGE", // format of the banner. The options are   HOME_PAGE_SMALL, HOME_PAGE_LARGE, MY_CHECKS_SMALL, RESULTS_PAGE_LARGE 
     "actionType": "LINK_TO_PLANS_PAGE" // what the buttons does, the options are   LINK_TO_WEBVIEW, TRIGGER_POP_UP_QUERY, LINK_TO_PLANS_PAGE, LINK_EXTERNAL 
   }
-
+```
