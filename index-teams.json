@@ -1,5 +1,14 @@
-{
-  "teamName": "Brentford",
-  "folder": "brentford"
-  
-}
+[
+  {
+    "teamName": "Brentford",
+    "imageBackground": "brentford_background_ad.png",
+    "imageLogo": "brentford_logo_ad.png",
+    "buttonText" : "Shop Brentford Official  >"
+  },
+  {
+    "teamName": "Watford",
+    "imageBackground": "watford_background_ad.jpg",
+    "imageLogo": "watford_logo_ad.png",
+    "buttonText" : "Shop Watford FC Official  >"
+  }
+]
