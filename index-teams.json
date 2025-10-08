@@ -3,12 +3,14 @@
     "teamName": "Brentford",
     "imageBackground": "brentford_background_ad.png",
     "imageLogo": "brentford_logo_ad.png",
+    "url":"https://t2m.io/HWqM4yKb",
     "buttonText" : "Shop Brentford Official  >"
   },
   {
     "teamName": "Watford",
     "imageBackground": "watford_background_ad.jpg",
     "imageLogo": "watford_logo_ad.png",
+    "url":"https://www.thehornetsshop.co.uk",
     "buttonText" : "Shop Watford FC Official  >"
   }
 ]
