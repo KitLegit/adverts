@@ -1,16 +1,23 @@
 [
   {
-    "teamName": "Brentford",
+    "teamName": "Brentford FC",
     "imageBackground": "brentford_background_ad.png",
     "imageLogo": "brentford_logo_ad.png",
     "url":"https://t2m.io/HWqM4yKb",
     "buttonText" : "Shop Brentford Official  >"
   },
   {
-    "teamName": "Watford",
+    "teamName": "Watford FC",
     "imageBackground": "watford_background_ad.jpg",
     "imageLogo": "watford_logo_ad.png",
     "url":"https://www.thehornetsshop.co.uk",
     "buttonText" : "Shop Watford FC Official  >"
+  }
+    {
+    "teamName": "Sporting Clube de Portugal",
+    "imageBackground": "sporting_background_ad.jpg",
+    "imageLogo": "sporting_logo_ad.png",
+    "url":"https://lojaverde.sporting.pt",
+    "buttonText" : "Shop Sporting Official  >"
   }
 ]
