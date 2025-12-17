@@ -14,7 +14,7 @@
   },
   {
     "id": 2,
-    "#image": "Home - Small Terrace.jpg",
+    "image": "Home - Small Terrace.jpg",
     "title": "Shop the Terrace",
     "description": "Shop a selection of kits, retro remakes, club merch and more.",
     "actionText": null,
@@ -27,7 +27,7 @@
   },
   {
     "id": 3,
-    "#image": "Home Small - Ad.jpg",
+    "image": "Home Small - Ad.jpg",
     "title": "Advertise on KitLegit",
     "description": "Reach users in over 80 countries with advert banners on KitLegit.",
     "actionText": null,
@@ -82,7 +82,7 @@
 
   {
     "id": 7,
-    "#image": "Home Large - Cert-2.jpg",
+    "image": "Home Large - Cert-2.jpg",
     "title": null,
     "description": null,
     "actionText": "Shop Now",
@@ -96,7 +96,7 @@
 
   {
     "id": 8,
-    "#image": "Football Finery.jpg",
+    "image": "Football Finery.jpg",
     "title": null,
     "description": null,
     "actionText": "Shop Now",
@@ -123,7 +123,7 @@
   },
   {
     "id": 10,
-    "#image": "Checks - Small FF.jpg",
+    "image": "Checks - Small FF.jpg",
     "title": "Shop Football Finery",
     "description": "Shop modern & vintage football kits from around the globe.",
     "actionText": null,
@@ -136,7 +136,7 @@
   },
   {
     "id": 11,
-    "#image": "Checks Small - Ad.jpg",
+    "image": "Checks Small - Ad.jpg",
     "title": "Advertise on KitLegit",
     "description": "Reach users in over 80 countries with advert banners on KitLegit.",
     "actionText": null,
@@ -149,7 +149,7 @@
   },
   {
     "id": 12,
-    "#image": "CHecks - Small PR.jpg",
+    "image": "CHecks - Small PR.jpg",
     "title": "Upgrade to premium",
     "description": "Boost KitLegit with unlimited checks, seller features and more.",
     "actionText": null,
@@ -163,7 +163,7 @@
 
   {
     "id": 13,
-    "#image": "Results Large - xF.jpg",
+    "image": "Results Large - xF.jpg",
     "title": null,
     "description": null,
     "actionText": "Buy & Sell Now",
@@ -176,7 +176,7 @@
   },
   {
     "id": 14,
-    "#image": "Home + Result Large - BF.jpg",
+    "image": "Home + Result Large - BF.jpg",
     "title": null,
     "description": null,
     "actionText": "Get Premium",
