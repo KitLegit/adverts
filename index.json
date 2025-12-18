@@ -13,32 +13,6 @@
     "actionType": "LINK_TO_WEBVIEW"
   },
   {
-    "id": 2,
-    "image": "Home - Small Terrace.jpg",
-    "title": "Shop the Terrace",
-    "description": "Shop a selection of kits, retro remakes, club merch and more.",
-    "actionText": null,
-    "url": "https://t2m.io/nEv7Jx1C",
-    "forFreeUsersOnly": false,
-    "disableDate": null,
-    "promoCode": null,
-    "type": "HOME_PAGE_SMALL",
-    "actionType": "LINK_EXTERNAL"
-  },
-  {
-    "id": 3,
-    "image": "Home Small - Ad.jpg",
-    "title": "Advertise on KitLegit",
-    "description": "Reach users in over 80 countries with advert banners on KitLegit.",
-    "actionText": null,
-    "url": null,
-    "forFreeUsersOnly": false,
-    "disableDate": null,
-    "promoCode": null,
-    "type": "HOME_PAGE_SMALL",
-    "actionType": "TRIGGER_POP_UP_QUERY"
-  },
-  {
     "id": 4,
     "image": "CHecks - Small PR.jpg",
     "title": "Upgrade to premium",
@@ -79,35 +53,6 @@
     "type": "HOME_PAGE_LARGE",
     "actionType": "LINK_TO_PLANS_PAGE"
   },
-
-  {
-    "id": 7,
-    "image": "Home Large - Cert-2.jpg",
-    "title": null,
-    "description": null,
-    "actionText": "Shop Now",
-    "url": "https://rebrand.ly/tlc04hy",
-    "forFreeUsersOnly": false,
-    "disableDate": null,
-    "promoCode": null,
-    "type": "HOME_PAGE_LARGE",
-    "actionType": "LINK_EXTERNAL"
-  },
-
-  {
-    "id": 8,
-    "image": "Football Finery.jpg",
-    "title": null,
-    "description": null,
-    "actionText": "Shop Now",
-    "url": "https://rebrand.ly/199ea7",
-    "forFreeUsersOnly": false,
-    "disableDate": null,
-    "promoCode": null,
-    "type": "HOME_PAGE_LARGE",
-    "actionType": "LINK_EXTERNAL"
-  },
-
   {
     "id": 9,
     "image": "Checks- Small Cert.jpg",
@@ -122,32 +67,6 @@
     "actionType": "LINK_TO_WEBVIEW"
   },
   {
-    "id": 10,
-    "image": "Checks - Small FF.jpg",
-    "title": "Shop Football Finery",
-    "description": "Shop modern & vintage football kits from around the globe.",
-    "actionText": null,
-    "url": "https://t2m.io/BzgDf5qj",
-    "forFreeUsersOnly": false,
-    "disableDate": null,
-    "promoCode": null,
-    "type": "MY_CHECKS_SMALL",
-    "actionType": "LINK_EXTERNAL"
-  },
-  {
-    "id": 11,
-    "image": "Checks Small - Ad.jpg",
-    "title": "Advertise on KitLegit",
-    "description": "Reach users in over 80 countries with advert banners on KitLegit.",
-    "actionText": null,
-    "url": null,
-    "forFreeUsersOnly": false,
-    "disableDate": null,
-    "promoCode": null,
-    "type": "MY_CHECKS_SMALL",
-    "actionType": "TRIGGER_POP_UP_QUERY"
-  },
-  {
     "id": 12,
     "image": "CHecks - Small PR.jpg",
     "title": "Upgrade to premium",
@@ -159,20 +78,6 @@
     "promoCode": null,
     "type": "MY_CHECKS_SMALL",
     "actionType": "LINK_TO_PLANS_PAGE"
-  },
-
-  {
-    "id": 13,
-    "image": "Results Large - xF.jpg",
-    "title": null,
-    "description": null,
-    "actionText": "Buy & Sell Now",
-    "url": "https://rebrand.ly/5bhb4ed",
-    "forFreeUsersOnly": false,
-    "disableDate": null,
-    "promoCode": null,
-    "type": "RESULTS_PAGE_LARGE",
-    "actionType": "LINK_EXTERNAL"
   },
   {
     "id": 14,
